@@ -1,4 +1,4 @@
-## 📅 Week 2: PyTorch & RNNs
+## 📅 Week 3: PyTorch & RNNs
 
 This week, we’ll:
 
