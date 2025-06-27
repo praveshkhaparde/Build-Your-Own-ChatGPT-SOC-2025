@@ -25,4 +25,3 @@ These will help us build a strong foundation for the chatbot project.
 
 ---
 
-Let me know if you want to add example outputs or starter code links!
