@@ -1,1 +1,8 @@
-In week1, We will revise python and its some common libraries and we will also learn about NLP,specially the basics of the *NLTK* and *Gensim* libraries. 
+## 📅 Week 1: Python & NLP Basics
+
+This week, we’ll:
+
+- 🔁 Revise core **Python** concepts and common libraries (`NumPy`, `Pandas`, etc.)
+- 🧠 Learn basic **NLP** using **NLTK** and **Gensim**
+
+These will help us prepare for building the chatbot in upcoming weeks.
