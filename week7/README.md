@@ -19,10 +19,10 @@
 
 #### 📘 Conceptual Understanding:
 - [🔗 What is RAG? (YouTube – 5 min intro)](https://www.youtube.com/watch?v=T-D1OfcDW1M)  
-- [🔗 RAG Overview and Explanation (Playlist Video)](https://www.youtube.com/watch?v=X0btK9X0Xnk&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=17)
+- [🔗 RAG Overview and Explanation (Playlist Video)](https://www.youtube.com/watch?v=X0btK9X0Xnk&t=3184s)
 
 #### 🛠️ Hands-On Implementation:
-- [🔗 RAG Implementation Tutorial (YouTube)](https://www.youtube.com/watch?v=J5_-l7WIO_w&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0&index=18)
+- [🔗 RAG Implementation Tutorial (YouTube)](https://www.youtube.com/watch?v=J5_-l7WIO_w&t=4s)
 
 ---
 
