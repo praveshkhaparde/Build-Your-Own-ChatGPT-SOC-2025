@@ -10,7 +10,7 @@
 
 - 📚 **Open-domain QA**: Fetch facts from a database and generate fluent answers  
 - 🧾 **Document summarization** with real-time data  
-- 💬 **Chatbots** that can reason with external sources  
+- 💬 **Chatbots** that can reason with external sources   
 - 🏥 **Medical & Legal Assistants** that refer to up-to-date documents
 
 ---
