@@ -1,9 +1,9 @@
-# 🤖 Build Your Own ChatGPT – SOC 2025
+# Build Your Own ChatGPT – SOC 2025
 
 **Topic**: Build Your Own ChatGPT Bot  
 **Project ID**: 143  
 
-### 🧑‍🏫 Mentors
+### Mentors
 - Pravesh Kharpade – `22B1225`  
 - Aditya Singh Bhadoria – `22B1247`  
 - Ankit Kumar Maurya – `22B1266`  
