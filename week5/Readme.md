@@ -18,7 +18,7 @@ In this and the upcoming week, we’ll dive into **Transformers** — deep learn
 
 > **Note**: You are **not** expected to fine-tune transformer models — use them only for generating embeddings.
 
-### 🎯 Task:
+### Task:
 
 - Build a **Sentiment Analysis Model** using **transformer-based embeddings**
 - **Goal**: Classify movie reviews as **positive** or **negative**
