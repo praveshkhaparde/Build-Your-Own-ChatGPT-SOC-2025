@@ -33,4 +33,14 @@ Download Docker: [Docker Desktop](https://www.docker.com/products/docker-desktop
 
 ---
 
+## Milestone 6  
+### Legal Adviser Bot
+
+Build a chatbot that provides legal guidance using either **Botpress** or **LLaMA via Ollama**.
+
+- Generate a 3000–5000 word PDF of text from ChatGPT about Indian laws and regulations  
+- Try to add preprocessing steps like removing headers/footers, chunking by section, and converting to plain text  
+- Show the chatbot's output for sample legal questions directly in your README
+
+I will suggest trying both of them and trying to compare which performs better.
 
