@@ -27,4 +27,4 @@ In this and the upcoming week, we’ll dive into **Transformers** — deep learn
 
 ---
 
-Let me know if you want to add Hugging Face links, dataset references, or starter code for embedding extraction!
+
