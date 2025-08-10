@@ -34,5 +34,3 @@ Watch this video before building your bot to improve your interactions with Chat
   - Include a **GIF or short video** of your local chatbot working in the `README.md`
 
 ---
-
-Let me know if you want help generating starter code or formatting the GitHub README! 🚀
