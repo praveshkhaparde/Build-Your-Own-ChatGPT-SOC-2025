@@ -20,4 +20,3 @@ This week, we’ll:
 
 ---
 
-Let me know if you want to add links to datasets or starter code for Milestone 2!
